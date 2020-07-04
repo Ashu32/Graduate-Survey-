@@ -1,5 +1,5 @@
 # Graduate Survey
-A digital survey through which graduates share their educational experience at the institution and taking feedbacks for the improvement of their educational program. 
+A digital survey portal through which graduates share their educational experience at the institution and taking feedbacks for the improvement of their educational program. 
 ## Screenshots
 ![Screenshot (3)](https://user-images.githubusercontent.com/43087810/86519632-1f51a580-be5a-11ea-9182-3fdd79b729d9.png)
 ![Screenshot (7)](https://user-images.githubusercontent.com/43087810/86519765-b834f080-be5b-11ea-92a1-20f1960bd0c1.png)
